@@ -12,4 +12,6 @@ PICTピクチャの変換ツール
 
 ``Components``フォルダーにインストールし，32ビット版でストラクチャを開いて，``HTP_DoIt``メソッドを実行します。詳細はPDFドキュメント（英文）を参照してください。
 
+---
+
 ### [simple converter by miyako](https://github.com/4D-JP/4d-tips-picture-conversion/releases/tag/1.1)
