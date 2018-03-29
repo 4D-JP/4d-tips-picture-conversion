@@ -20,9 +20,7 @@ PICTピクチャの変換ツール
 
 ---
 
-### simple converter by miyako
-
-こちらは，大雑把な一括変換ツールです。``QuickDraw (PICT)``だけでなく，``QuickTime``画像にも対応しています（v2004以前の``JPEG``コンテナなど）。
+こちらは，大雑把な一括変換プログラムです（上記ツールとは無関係）。``QuickDraw (PICT)``だけでなく，``QuickTime``画像にも対応しています（v2004以前の``JPEG``コンテナなど）。
 
 ### 使い方
 
