@@ -14,4 +14,16 @@ PICTピクチャの変換ツール
 
 ---
 
-### [simple converter by miyako](https://github.com/4D-JP/4d-tips-picture-conversion/releases/tag/1.1)
+### simple converter by miyako
+
+### 使い方
+
+[変換SOAPサーバー](https://github.com/4D-JP/4d-tips-picture-conversion/releases/tag/1.2)を32ビット版で起動します。デフォルトの設定はポート番号``80``です。
+
+[変換SOAPクライアント](https://github.com/4D-JP/4d-tips-picture-conversion/releases/tag/1.1)を64ビット版で起動します。
+
+``FixIt``メソッドを実行すると，変換メソッドがインストールされます（コンポーネントではありません）。デフォルトのURLは``http://localhost/4DSOAP``です。
+
+フォームのピクチャを一括修正するには``FIX_FORM``，ライブラリを一括修正するには``FIX_LIBRARY``を実行します。
+
+ペーストされたスタティックピクチャーを変換することはできませんが，フォームエディターで「スタティックピクチャー」を適当に選択し，「タイプ」プロパティを「スタティックピクチャー」から「ライブラリピクチャー」に変更すれば，画像がピクチャライブラリに追加されますので，``FIX_LIBRARY``で修正することができます。
